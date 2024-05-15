@@ -55,3 +55,5 @@ public class cube : MonoBehaviour
 ```
 ## Output:
 ## Result:
+The above C# coding is successfully redirecting the scene in the unity engine.
+
