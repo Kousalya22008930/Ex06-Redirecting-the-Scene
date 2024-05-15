@@ -54,6 +54,10 @@ public class cube : MonoBehaviour
 }
 ```
 ## Output:
+After the ball hit the cube:
+![image](https://github.com/Kousalya22008930/Ex06-Redirecting-the-Scene/assets/119389108/cf3bce0e-976d-45f0-bdd6-4e1961669920)
+![image](https://github.com/Kousalya22008930/Ex06-Redirecting-the-Scene/assets/119389108/a2a8d223-26c1-4476-9581-6f40a8c813d0)
+
 ## Result:
 The above C# coding is successfully redirecting the scene in the unity engine.
 
